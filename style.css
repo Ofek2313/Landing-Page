@@ -1,5 +1,6 @@
 html{
     scroll-behavior: smooth;
+    overflow-x: hidden;
    
     
 }
@@ -111,5 +112,8 @@ html{
     }
     .logo{
         width: 10%;
+    }
+    .Role{
+        font-size: 4rem;
     }
 }
